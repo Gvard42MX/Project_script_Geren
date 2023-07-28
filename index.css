@@ -17,3 +17,38 @@ background-color: var(--primary-color);
 body{
     background-color: var(--primary-color);
 }
+
+.img1:hover{
+    background-color: #4B4B4B;
+}
+/*  */
+.img2{
+    width:  50px;
+    padding: 5px;
+}
+
+.icon-skill{
+    
+    height: 75px ;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-skill:hover{
+    background-color: #D9D9D9;
+}
+
+footer {
+    background-color: #d0ff00;
+    padding: 20px;
+}
+
+.footer-content {
+    text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+    color: #666;
+}
